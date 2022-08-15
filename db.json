@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshneess": "Second Hand",
+      "price": 250,
+      "comment": "This I SNOT FRESS",
+      "date": "2022-08-17T06:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "A",
+      "category": "Fruits",
+      "freshneess": "Brand New",
+      "price": 100,
+      "comment": "COMENTARIO 1",
+      "date": "2022-08-01T06:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
